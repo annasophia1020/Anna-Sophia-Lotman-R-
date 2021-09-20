@@ -4,8 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
+    - text: "Assignments"
+      href: Assignments.html
+      text: "New Page"
+      href: New Page.html
     - text: "Links"
       href: Links.html
 output_dir: "docs"
